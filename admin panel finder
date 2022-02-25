@@ -1,0 +1,5 @@
+cd Breacher 
+chmod +x breacher.py
+python3 breacher.py
+python3 breacher.py -h
+python3 breacher.py -u link target 
